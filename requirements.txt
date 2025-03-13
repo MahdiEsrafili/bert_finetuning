@@ -1,0 +1,9 @@
+pandas
+numpy
+clean-text
+tqdm
+hazm
+transformers
+torch
+git+https://github.com/huggingface/evaluate@main
+datasets
